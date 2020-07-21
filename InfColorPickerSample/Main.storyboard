@@ -19,13 +19,13 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="204">
-                                <rect key="frame" x="120.5" y="433" width="173" height="30"/>
+                                <rect key="frame" x="0.0" y="433" width="414" height="30"/>
                                 <state key="normal" title="Change Background Color"/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="204" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.417411" id="W9r-Wk-PTs"/>
+                            <constraint firstItem="204" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" id="W9r-Wk-PTs"/>
                             <constraint firstItem="204" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="hbU-zi-3yC"/>
                             <constraint firstItem="204" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="wL4-S3-DHu"/>
                         </constraints>
