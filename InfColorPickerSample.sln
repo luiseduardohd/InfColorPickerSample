@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfColorPickerSample", "InfColorPickerSample\InfColorPickerSample.csproj", "{4121EC67-E00B-4E5C-9515-51C58D828F07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfColorPickerBinding", "InfColorPickerBinding\InfColorPickerBinding.csproj", "{C353AF76-7835-4E57-9068-3B6B6BBCF36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4121EC67-E00B-4E5C-9515-51C58D828F07}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4121EC67-E00B-4E5C-9515-51C58D828F07}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4121EC67-E00B-4E5C-9515-51C58D828F07}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4121EC67-E00B-4E5C-9515-51C58D828F07}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{4121EC67-E00B-4E5C-9515-51C58D828F07}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4121EC67-E00B-4E5C-9515-51C58D828F07}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4121EC67-E00B-4E5C-9515-51C58D828F07}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4121EC67-E00B-4E5C-9515-51C58D828F07}.Release|iPhone.Build.0 = Release|iPhone
+		{C353AF76-7835-4E57-9068-3B6B6BBCF36C}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C353AF76-7835-4E57-9068-3B6B6BBCF36C}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C353AF76-7835-4E57-9068-3B6B6BBCF36C}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{C353AF76-7835-4E57-9068-3B6B6BBCF36C}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{C353AF76-7835-4E57-9068-3B6B6BBCF36C}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{C353AF76-7835-4E57-9068-3B6B6BBCF36C}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{C353AF76-7835-4E57-9068-3B6B6BBCF36C}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{C353AF76-7835-4E57-9068-3B6B6BBCF36C}.Release|iPhone.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
